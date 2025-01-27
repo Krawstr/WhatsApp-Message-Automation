@@ -4,9 +4,7 @@
 
 <h4>Descrição</h4>
 <p>Este script automatiza o envio de mensagens via WhatsApp utilizando a API do Twilio. Ele lê números de telefone e nomes de um arquivo Excel 
-  ```python
-  telefones.xlsx
-```
+  (telefones.xlsx)
   e envia mensagens em horários programados. O objetivo é facilitar o envio de mensagens periódicas e reduzir a necessidade de interação manual.</p>
   
   ###
@@ -25,7 +23,10 @@
 <ol>
   <li> <p>Pré-requisitos:</p></li>
   <ul>
-      <li><p>instale </p></li>
+      <li><p>instale as bibliotecas necessarias</p>
+      ```bash
+        pip install beautifulsoup4 requests
+      ```</li>
   </ul>
   
 </ol>
