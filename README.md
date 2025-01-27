@@ -93,7 +93,7 @@ if currentTime in ["9:00", "16:00"] and currentTime not in sendToday:
         <li>Conexão com a internet</li>
         <li>Conta Twilio configurada</li>
     </ul>
-  ###
+ <br>
     <p>
         obrigador por me ler <3.
     </p>
